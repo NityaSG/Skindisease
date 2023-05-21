@@ -1,5 +1,5 @@
 tensorflow
 streamlit
 numpy
-PIL
+pillow
 cv2
